@@ -20,11 +20,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2079-delete-duplicate-folders-in-system) |
 ## String
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0273-integer-to-english-words) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -33,9 +35,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0050-powx-n) |
 | [0273-integer-to-english-words](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0273-integer-to-english-words) |
+## Hash Table
+|  |
+| ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2079-delete-duplicate-folders-in-system) |
+## Hash Function
+|  |
+| ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2079-delete-duplicate-folders-in-system) |
 <!---LeetCode Topics End-->
