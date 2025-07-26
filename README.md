@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0070-climbing-stairs) |
 | [0273-integer-to-english-words](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0273-integer-to-english-words) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0013-roman-to-integer) |
 | [0273-integer-to-english-words](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0273-integer-to-english-words) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0013-roman-to-integer) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Function
