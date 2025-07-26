@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0128-longest-consecutive-sequence) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0128-longest-consecutive-sequence) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Function
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
