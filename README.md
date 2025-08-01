@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0934-bitwise-ors-of-subarrays) |
 ## Memoization
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0128-longest-consecutive-sequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0934-bitwise-ors-of-subarrays) |
