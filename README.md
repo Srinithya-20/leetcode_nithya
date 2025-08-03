@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Union Find
 |  |
@@ -126,4 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0053-maximum-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+## Sliding Window
+|  |
+| ------- |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 <!---LeetCode Topics End-->
