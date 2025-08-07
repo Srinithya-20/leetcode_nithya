@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0128-longest-consecutive-sequence) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0054-spiral-matrix) |
 | [3790-fruits-into-baskets-ii](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0054-spiral-matrix) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Two Pointers
 |  |
