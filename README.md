@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0273-integer-to-english-words) |
+| [0900-reordered-power-of-2](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0900-reordered-power-of-2) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0242-valid-anagram) |
+| [0900-reordered-power-of-2](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0900-reordered-power-of-2) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Function
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0900-reordered-power-of-2) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Prefix Sum
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0242-valid-anagram) |
+| [0900-reordered-power-of-2](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0900-reordered-power-of-2) |
 ## Backtracking
 |  |
 | ------- |
@@ -164,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Counting
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0900-reordered-power-of-2) |
 <!---LeetCode Topics End-->
