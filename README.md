@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2529-range-product-queries-of-powers) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0059-spiral-matrix-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1628-count-submatrices-with-all-ones) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Two Pointers
 |  |
