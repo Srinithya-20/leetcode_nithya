@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0037-sudoku-solver) |
 | [0053-maximum-subarray](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0055-jump-game) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0242-valid-anagram) |
 | [0900-reordered-power-of-2](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0900-reordered-power-of-2) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0037-sudoku-solver) |
 | [0679-24-game](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0679-24-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Brainteaser
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0059-spiral-matrix-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1402-count-square-submatrices-with-all-ones) |
