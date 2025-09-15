@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0273-integer-to-english-words) |
 | [1006-vowel-spellchecker](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0242-valid-anagram) |
 | [0900-reordered-power-of-2](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0900-reordered-power-of-2) |
 | [1006-vowel-spellchecker](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3872-find-most-frequent-vowel-and-consonant) |
