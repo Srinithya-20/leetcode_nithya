@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2429-design-a-food-rating-system](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Hash Function
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3790-fruits-into-baskets-ii) |
 ## Matrix
 |  |
@@ -279,8 +281,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3678-design-task-manager) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
