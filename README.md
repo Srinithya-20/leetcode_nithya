@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1628-count-submatrices-with-all-ones) |
+| [2023-design-movie-rental-system](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0900-reordered-power-of-2) |
 | [1006-vowel-spellchecker](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2023-design-movie-rental-system](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2429-design-a-food-rating-system](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3678-design-task-manager) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3790-fruits-into-baskets-ii) |
@@ -284,12 +287,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3827-implement-router) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3678-design-task-manager) |
 ## Queue
