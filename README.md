@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0326-power-of-three) |
 | [0679-24-game](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0679-24-game) |
+| [0830-largest-triangle-area](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0900-reordered-power-of-2) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0128-longest-consecutive-sequence) |
 | [0611-valid-triangle-number](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0679-24-game) |
+| [0830-largest-triangle-area](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0830-largest-triangle-area) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1006-vowel-spellchecker](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1006-vowel-spellchecker) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Game Theory
