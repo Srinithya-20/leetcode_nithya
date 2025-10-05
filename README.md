@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0128-longest-consecutive-sequence) |
+| [0417-pacific-atlantic-water-flow](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0417-pacific-atlantic-water-flow) |
 | [0611-valid-triangle-number](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0679-24-game) |
 | [0830-largest-triangle-area](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0830-largest-triangle-area) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0417-pacific-atlantic-water-flow](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0417-pacific-atlantic-water-flow) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Trie
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0059-spiral-matrix-ii) |
+| [0417-pacific-atlantic-water-flow](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0417-pacific-atlantic-water-flow) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1628-count-submatrices-with-all-ones) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -331,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2324-find-triangular-sum-of-an-array) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0417-pacific-atlantic-water-flow](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0417-pacific-atlantic-water-flow) |
 <!---LeetCode Topics End-->
