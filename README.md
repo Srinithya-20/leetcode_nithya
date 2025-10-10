@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2529-range-product-queries-of-powers) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2529-range-product-queries-of-powers) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Union Find
