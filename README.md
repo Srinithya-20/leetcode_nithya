@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0096-unique-binary-search-trees) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0273-integer-to-english-words) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -377,4 +381,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
