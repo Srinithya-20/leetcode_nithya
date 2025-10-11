@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0101-symmetric-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0543-diameter-of-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0101-symmetric-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0543-diameter-of-binary-tree](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0543-diameter-of-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Greedy
@@ -358,10 +360,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0101-symmetric-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0417-pacific-atlantic-water-flow) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0101-symmetric-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0543-diameter-of-binary-tree](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0543-diameter-of-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0116-populating-next-right-pointers-in-each-node) |
 <!---LeetCode Topics End-->
