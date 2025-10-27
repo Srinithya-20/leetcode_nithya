@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1642-water-bottles](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2887-sort-vowels-in-a-string) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0417-pacific-atlantic-water-flow) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1628-count-submatrices-with-all-ones) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3748-sort-matrix-by-diagonals) |
