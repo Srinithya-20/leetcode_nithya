@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2429-design-a-food-rating-system) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3678-design-task-manager](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search Tree
 |  |
 | ------- |
