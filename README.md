@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3827-implement-router](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3827-implement-router) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3863-power-grid-maintenance](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3863-power-grid-maintenance) |
 ## String
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0543-diameter-of-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [3863-power-grid-maintenance](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3863-power-grid-maintenance) |
 ## Trie
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3678-design-task-manager](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3827-implement-router](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Hash Function
 |  |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0128-longest-consecutive-sequence) |
+| [3863-power-grid-maintenance](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3863-power-grid-maintenance) |
 ## Sorting
 |  |
 | ------- |
@@ -342,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3678-design-task-manager](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3790-fruits-into-baskets-ii) |
 | [3827-implement-router](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3863-power-grid-maintenance) |
 ## Matrix
 |  |
 | ------- |
@@ -417,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3863-power-grid-maintenance) |
 ## Queue
 |  |
 | ------- |
@@ -433,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0102-binary-tree-level-order-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0417-pacific-atlantic-water-flow) |
+| [3863-power-grid-maintenance](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
 | ------- |
@@ -460,4 +467,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Graph
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3863-power-grid-maintenance) |
 <!---LeetCode Topics End-->
