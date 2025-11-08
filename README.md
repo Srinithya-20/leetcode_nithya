@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0070-climbing-stairs) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Array
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0231-power-of-two) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
