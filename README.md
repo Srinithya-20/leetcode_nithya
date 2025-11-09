@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0059-spiral-matrix-ii) |
 | [1642-water-bottles](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1642-water-bottles) |
 | [2169-simple-bank-system](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2169-simple-bank-system) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3336-water-bottles-ii](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3336-water-bottles-ii) |
