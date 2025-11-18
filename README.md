@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0474-ones-and-zeroes) |
 | [0611-valid-triangle-number](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0679-24-game) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0830-largest-triangle-area](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0830-largest-triangle-area) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1006-vowel-spellchecker](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1006-vowel-spellchecker) |
