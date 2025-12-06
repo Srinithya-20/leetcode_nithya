@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3462-vowels-game-in-a-string](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3462-vowels-game-in-a-string) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0059-spiral-matrix-ii) |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1642-water-bottles](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1642-water-bottles) |
 | [2169-simple-bank-system](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2169-simple-bank-system) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2288-count-operations-to-obtain-zero) |
