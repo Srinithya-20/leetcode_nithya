@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1768-merge-strings-alternately](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1768-merge-strings-alternately) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0611-valid-triangle-number) |
+| [1768-merge-strings-alternately](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1768-merge-strings-alternately) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Srinithya-20/leetcode_nithya/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Counting
