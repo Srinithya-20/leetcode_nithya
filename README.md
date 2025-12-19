@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1628-count-submatrices-with-all-ones) |
