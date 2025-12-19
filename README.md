@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0273-integer-to-english-words) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0345-reverse-vowels-of-a-string) |
 | [0474-ones-and-zeroes](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0474-ones-and-zeroes) |
 | [1006-vowel-spellchecker](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1006-vowel-spellchecker) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0165-compare-version-numbers) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0345-reverse-vowels-of-a-string) |
 | [0611-valid-triangle-number](https://github.com/Srinithya-20/leetcode_nithya/tree/master/0611-valid-triangle-number) |
 | [1768-merge-strings-alternately](https://github.com/Srinithya-20/leetcode_nithya/tree/master/1768-merge-strings-alternately) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Srinithya-20/leetcode_nithya/tree/master/2392-successful-pairs-of-spells-and-potions) |
